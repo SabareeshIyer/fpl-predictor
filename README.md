@@ -1,6 +1,6 @@
 # FPL Predictor
 
-Run by python3 myfpl/myfpl.py
+To run: `python3 myfpl/myfpl.py`
 
 Results will be saved within `myfpl/files/`.
 
