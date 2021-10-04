@@ -1,0 +1,110 @@
+{
+    "Top scoring by goal frequency": {
+        "More than 2 goals per game": [
+            "Chelsea",
+            "Liverpool",
+            "Manchester_City"
+        ],
+        "1.5-2 goals per game": [
+            "Brentford"
+        ],
+        "1-1.5 goals per game": [
+            "Crystal_Palace",
+            "Aston_Villa",
+            "Everton",
+            "West_Ham",
+            "Leicester",
+            "Brighton",
+            "Manchester_United",
+            "Arsenal",
+            "Tottenham",
+            "Southampton"
+        ],
+        "0.5-1 goal per game": [
+            "Wolverhampton_Wanderers",
+            "Leeds",
+            "Newcastle_United",
+            "Watford"
+        ],
+        "Less than 0.5 goals per game": [
+            "Burnley",
+            "Norwich"
+        ]
+    },
+    "Top scoring by team name (sorted)": {
+        "Chelsea": 16.75,
+        "Liverpool": 14.88,
+        "Manchester_City": 12.53,
+        "Brentford": 11.23,
+        "Crystal_Palace": 8.98,
+        "Aston_Villa": 8.49,
+        "Everton": 7.38,
+        "West_Ham": 7.12,
+        "Leicester": 7.0,
+        "Brighton": 6.74,
+        "Manchester_United": 6.71,
+        "Arsenal": 6.67,
+        "Tottenham": 6.63,
+        "Southampton": 6.0,
+        "Wolverhampton_Wanderers": 5.86,
+        "Leeds": 5.8,
+        "Newcastle_United": 4.91,
+        "Watford": 3.1,
+        "Burnley": 2.61,
+        "Norwich": 1.63
+    },
+    "Best defense by goals allowed frequency": {
+        "Less than 0.5 goals per game": [
+            "Manchester_City",
+            "Chelsea"
+        ],
+        "0.5-1 goal per game": [
+            "Aston_Villa",
+            "Brighton",
+            "Southampton",
+            "Leeds",
+            "Brentford",
+            "Liverpool",
+            "Wolverhampton_Wanderers",
+            "Crystal_Palace"
+        ],
+        "1-1.5 goals per game": [
+            "Manchester_United",
+            "Everton"
+        ],
+        "1.5-2 goals per game": [
+            "Arsenal",
+            "West_Ham",
+            "Burnley"
+        ],
+        "More than 2 goals per game": [
+            "Tottenham",
+            "Norwich",
+            "Newcastle_United",
+            "Leicester",
+            "Watford"
+        ]
+    },
+    "Best defense by team name (sorted)": {
+        "Manchester_City": 2.34,
+        "Chelsea": 2.53,
+        "Aston_Villa": 4.09,
+        "Brighton": 4.46,
+        "Southampton": 4.8,
+        "Leeds": 4.92,
+        "Brentford": 5.03,
+        "Liverpool": 5.39,
+        "Wolverhampton_Wanderers": 5.4,
+        "Crystal_Palace": 5.87,
+        "Manchester_United": 6.18,
+        "Everton": 8.52,
+        "Arsenal": 9.44,
+        "West_Ham": 9.81,
+        "Burnley": 9.85,
+        "Tottenham": 12.2,
+        "Norwich": 12.26,
+        "Newcastle_United": 13.0,
+        "Leicester": 13.65,
+        "Watford": 14.0
+    }
+}
